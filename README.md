@@ -1,1 +1,1 @@
-# goit-nodejs-hw-1
+# Command execution screenshots:
